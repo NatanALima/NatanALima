@@ -1,4 +1,4 @@
-## <img height="50cm" src="./src/sans-left.gif">  Olá! Sejam muito Bem vindos(as) ao meu Perfil <img height="50cm" src="./src/sans-right.gif"> 
+## <img height="50cm" src="./src/sans-left.gif">  Olá! Seja muito Bem vindo(a) ao meu Perfil <img height="50cm" src="./src/sans-right.gif"> 
 ### Antes de mais nada... Aqui 👉🏻🍪. Pegue um cookie 🍪🤏🏻 e aproveite a visita!
 
 
