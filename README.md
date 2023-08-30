@@ -1,4 +1,4 @@
-## <img height="50cm" src="https://im3.ezgif.com/tmp/ezgif-3-7f4f09e445.gif">  Olá! Sejam muito Bem vindos(as) ao meu Perfil <img height="50cm" src="https://im3.ezgif.com/tmp/ezgif-3-e6175802df.gif"> 
+## <img height="50cm" src="./src/sans-left.gif">  Olá! Sejam muito Bem vindos(as) ao meu Perfil <img height="50cm" src="./src/sans-right.gif"> 
 ### Antes de mais nada... Aqui 👉🏻🍪. Pegue um cookie 🍪🤏🏻 e aproveite a visita!
 
 
