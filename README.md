@@ -4,7 +4,7 @@
 
 
 <div>
-  <img height="180cm" src="https://pbs.twimg.com/media/EXK2vefWoAMJtE_.jpg">
+  <img height="180cm" src="./src/tom_jerry_shakingHands.gif">
 </div>
 
 ## 🐱‍👓Tecnologias
